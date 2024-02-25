@@ -1,0 +1,95 @@
+:: StoryTitle
+EDCI
+
+
+:: StoryData
+{
+  "ifid": "489C6137-03BC-492B-B592-4B347EE3B8F8",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Elf story",
+  "tag-colors": {
+    "It-was-a-sunny-day": "orange",
+    "It-was-a-raning-day": "yellow"
+  },
+  "zoom": 1
+}
+
+
+:: Bart rejects Elf {"position":"1200,425","size":"100,100"}
+Good! Bart was being a good boy as he was underage, the bartender will not let him enter the bar anyway.
+
+Then Elf has to go to the bar by himself.
+
+[[Go to the bar]]
+
+
+:: Elf story {"position":"950,125","size":"100,100"}
+Welecome to Kiki's world!
+today we are going to explore a day of Elf.
+<img
+src=https://easydrawingguides.com/wp-content/uploads/2018/10/Elf-10.png>
+
+
+* [[Sunny day]]
+
+
+* [[Raining day]]
+
+
+:: Go to the bar {"position":"925,500","size":"100,100"}
+At the bar, Elf tasted one of his favorite cocktails, yet he hadn't had a cocktail this authentic in 10 years. So Elf decided to help this bartender fulfill a wish from his bucket list.
+
+Bartender was very happy and said: i wish i can have a big bucket A big bucket of [[gold coins]].
+
+<img
+src=https://media.istockphoto.com/id/173243484/photo/pot-of-gold-coins-isolated-on-a-white-background.jpg?s=1024x1024&w=is&k=20&c=tjr1cWB6txlKNuecZb-ye4vRw1O_E40zrP0tBxwKwAk=>
+
+
+
+
+:: Go to the beach {"position":"675,450","size":"100,100"}
+Elf and Winnie enjoyed the Sunshine, but unfortunately they both got sunburned.
+
+<img
+src=https://media.istockphoto.com/id/1297706369/vector/sun-paint-brush-strokes-on-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=BvQi1mWNRrgaEJ5_AhOfs7OuXiCRb91-JJUI93LlAHg=>
+
+Then Elf suggests to have a drink at the bar [[Go to the bar]] 
+
+
+:: Raining day {"position":"1075,275","size":"100,100"}
+Elf plans  to bring his best friend Bart to drink at a local bar and watch  hocky game.
+
+<img
+src=https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png>
+
+
+* [[Bart rejects Elf]]
+* [[Go to the bar]]
+
+
+:: Sunny day {"position":"800,300","size":"100,100"}
+Elf chooses to go out with his best friend winnie. However, they were wondering where is the best place to go in a sunny day?
+<img
+src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ9BxwYfGAEpmP-TuXoRl9bX382VyNv4XMOA&usqp=CAU>
+
+
+* [[Go to the beach]]
+
+
+* [[Go to the bar]]
+
+
+:: gold coins {"position":"950,625","size":"100,100"}
+Elf granted his wish and started the magic, and a second later, Elf said: Your wish has been granted!
+But the bartender was [[very angry]].
+
+<img
+src=https://www.prequeladventure.com/fanartbooru/_images/3b15c1a88d132d1511b7d6bb57fa6935/4252%20-%20angry%20animation%20artist%3AKazerad%20character%3Abartender%20table%20table_flip%20text.gif>
+
+
+:: very angry {"position":"950,775","size":"100,100"}
+Because Elf was drunk, he misunderstand  the bartender's wish for a bucket of ducks and uses magic to make the bar flooded ducks, even turned the bartender into a yellow duck!
+
+<img
+src=https://img.pikbest.com/ai/illus_our/20230526/f42f6ceabd8bfe42e1e18d5b6533cc11.jpg!w700wp>
